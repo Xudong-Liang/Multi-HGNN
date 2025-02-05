@@ -1,6 +1,6 @@
 # Multi-HGNN: Multi-modal hypergraph neural networks for predicting missing reactions in metabolic networks
 ## Introduction
-![image](https://github.com/Xudong-Liang/Multi-ITI/blob/main/overview.png)
+![image](https://github.com/Xudong-Liang/Multi-HGNN/blob/main/overview.png)
 
 Multi-HGNN is a multi-modal hypergraph neural network that integrates multi-modal metabolic data to predict missing reactions. Multi-HGNN consists of three feature learning modules: biochemical feature learning module, which integrates metabolite biochemical features learned by a model that is pre-trained on large unlabeled small molecule datasets; the metabolic directed graph and hypergraph learning modules, which are used to learn the directionality and high-order interactions in metabolic reactions, respectively.
 
