@@ -25,5 +25,7 @@ We conduct our experiments with python3.8. Here are the requirements
 
 ## Acknowledgement
 DGL: https://www.dgl.ai/
+
 DHG: https://github.com/iMoonLab/DeepHypergraph
+
 KPGT: https://github.com/lihan97/KPGT
